@@ -1,11 +1,12 @@
 {
   "name": "redux-key-listener",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Redux middleware that listens specific keys and triggers specific functions.",
   "main": "index.js",
   "repository": "https://github.com/Paranoid-AF/redux-key-listener.git",
   "license": "MIT",
   "dependencies": {
     "object-keys-diff": "^2.0.0"
-  }
+  },
+  "keywords": ["redux", "react", "middleware", "redux-middleware", "listener", "key-listener"]
 }
